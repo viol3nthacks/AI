@@ -1,2 +1,2 @@
 # Automation
-Automation related to security // monitoring services.
+Automation related to security // monitoring services
